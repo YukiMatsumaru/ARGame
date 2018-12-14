@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ARCamera
+  - emptyCan
+  - BucketGame
+  - Pop-UpEmptyCan
+  - SwordTag
+  - HomeButton
+  - MiniGolfGame
+  - Putter
+  - RetryButton
+  - YesButton
+  - NoButton
+  - fourPlayers
+  - NextButton
+  - twoPlayers
+  - thirdPlayers
+  - GoalJudgment
+  - GolfBall
+  - EnemyObject
+  - Explosion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - notDraw
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
